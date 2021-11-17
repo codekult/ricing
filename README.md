@@ -16,7 +16,7 @@ Made to match with Firefox Dark Space theme
 
 ## Visual Studio Code theme
 
-[Kultist](https://themes.vscode.one/theme/codekult/sdYBukKr) by Codekult.
+[Kultist](https://github.com/codekult/kultist-color-theme) by Codekult.
 
 Also available in the VS Code marketplace.
 
