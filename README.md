@@ -18,7 +18,7 @@ Made to match with Firefox Dark Space theme
 
 [Kultist](https://themes.vscode.one/theme/codekult/sdYBukKr) by Codekult.
 
-Also available as a `.json` config file [here](vscode/kultist.json).
+Also available in the VS Code marketplace.
 
 ## Links of interest
 
