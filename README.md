@@ -23,4 +23,5 @@ Also available in the VS Code marketplace.
 ## Links of interest
 
 - [Theme studio for VS Code](https://themes.vscode.one/).
+- [terminal.sexy](https://terminal.sexy/).
 - [Vim no color collections](https://github.com/mcchrish/vim-no-color-collections).
